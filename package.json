@@ -1,0 +1,9 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "An npm module to check prime numbers",
+  "keywords": ["prime", "number", "checker"],
+  "license": "MIT",
+  "author": "Student",
+  "type": "commonjs"
+}
